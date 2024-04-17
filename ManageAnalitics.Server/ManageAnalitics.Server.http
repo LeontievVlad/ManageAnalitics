@@ -1,0 +1,6 @@
+@ManageAnalitics.Server_HostAddress = http://localhost:5213
+
+GET {{ManageAnalitics.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
